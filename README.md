@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eslam Mohamed</h1>
-<h3 align="center">I am a back-end developer with Python and Django, I am from Egypt ,I am hard worker, I am eager to learn new things, I Have a lot of dreams and ambitions.</h3>
+<h3 align="center">I am a back-end developer with Python and Django, I am from Egypt ,I am a hard worker and eager to learn new things, I Have a lot of dreams and ambitions.</h3>
 
 - 🔭 I’m currently working on **Some Projects using Django**
 
