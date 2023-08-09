@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Some Projects using Django**
 
-- 🌱 I’m currently learning **Flask And Fast API**
+- 🌱 I’m currently learning ** SQL and PostgreSQL **
 
-- 💬 Ask me about **python and django**
+- 💬 Ask me about **my ambitions**
 
 - 📫 How to reach me **eslammohamedmetwally1@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny When it takes.**
+- ⚡ Fun fact **I like to organize my time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
